@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Hi, Im Juanita
+Pycon namibia 2026
 
